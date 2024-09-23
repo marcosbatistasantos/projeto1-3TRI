@@ -1,7 +1,8 @@
 body {
     background-color: aqua;
 }
+
 footer{
     background-color: black
-    color white; 
+    color(srgb rgb(250, 240, 240) rgb(250, 250, 250) rgb(255, 255, 255));
 }
